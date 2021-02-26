@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with ...AWS
 - 💬 Ask me about ...anything
 - 📫 How to reach me: ... priyansh247joshi@gmail.com
-- 😄 Pronouns: ...He/Him
+- 😄 Pronouns: ...He/Him                                                                                                              https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2kXkMp6ZyxmltnGBNQzc0T2UcTW6cLwdXEQ&usqp=CAU
 - ⚡ Fun fact: ...Ideas are more Important than facts(rofl).
 
 
