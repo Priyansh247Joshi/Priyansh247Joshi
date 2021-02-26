@@ -3,7 +3,7 @@
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Views&color=blue&style=plastic" alt="Priyansh247Joshi" />
  </p>
-![Alt Text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAV_xHMPliHP5gQZOOVIC3x2J0WLgZirpiyg&usqp=CAU) 
+![Alt Text](https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif) 
 
 
 - 🔭 I’m currently working on ... Data Structure and Algorithms
