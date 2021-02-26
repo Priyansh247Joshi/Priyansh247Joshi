@@ -4,7 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Views&color=blue&style=plastic" alt="Priyansh247Joshi" />
  </p>
 <p>
-<img align="right" width="100" height="100" src=https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif) 
+<img align="right" width="200" height="200" src=https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif) 
 </p>
 
 - 🔭 I’m currently working on ... Data Structure and Algorithms
