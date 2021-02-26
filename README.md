@@ -10,8 +10,4 @@
 - ⚡ Fun fact: ...Ideas are more Important than facts(rofl).
 
 
-
--->[![Priyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyansh247joshi)](https://github.com/Priyansh247Joshi/github-readme-stats)
-
-
 ![Priyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyansh247Joshi&show_icons=true)
