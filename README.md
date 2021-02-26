@@ -12,4 +12,6 @@
 
 ![Priyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyansh247Joshi&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyansh247Joshi&layout=compact)](https://github.com/Priyansh247Joshi/github-readme-stats)
+
 
