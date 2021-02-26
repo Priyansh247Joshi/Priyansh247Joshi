@@ -1,4 +1,4 @@
-![Alt Text](https://i.pinimg.com/originals/fd/e2/4b/fde24b89a56e6bbf894cb01699a1728c.gif)
+![Alt Text](https://cdn.dribbble.com/users/898072/screenshots/3197134/111.gif)
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Views&color=blue&style=plastic" alt="Priyansh247Joshi" />
  </p>
