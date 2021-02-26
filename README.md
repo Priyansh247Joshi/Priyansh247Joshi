@@ -1,4 +1,6 @@
-![](https://komarev.com/ghpvc/?username=Priyansh247Joshi)
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Views&color=blue&style=plastic" alt="Priyansh247Joshi" />
+ </p>
 ### Hi there! I am Priyansh Joshi 👋
 
 - 🔭 I’m currently working on ... Data Structure and Algorithms
