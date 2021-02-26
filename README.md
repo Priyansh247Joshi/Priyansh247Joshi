@@ -1,3 +1,4 @@
+https://i.pinimg.com/originals/fd/e2/4b/fde24b89a56e6bbf894cb01699a1728c.gif
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Views&color=blue&style=plastic" alt="Priyansh247Joshi" />
  </p>
@@ -9,7 +10,7 @@
 - 🤔 I’m looking for help with ...AWS
 - 💬 Ask me about ...anything
 - 📫 How to reach me: ... priyansh247joshi@gmail.com
-- 😄 Pronouns: ...He/Him                                                                                                              https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2kXkMp6ZyxmltnGBNQzc0T2UcTW6cLwdXEQ&usqp=CAU
+- 😄 Pronouns: ...He/Him                                        
 - ⚡ Fun fact: ...Ideas are more Important than facts(rofl).
 
 
