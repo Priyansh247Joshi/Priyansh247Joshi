@@ -5,9 +5,8 @@
  </p>
 
 - 🔭 I’m currently working on ... Data Structure and Algorithms
-- 🌱 I’m currently learning ...Front End Development
+- 🌱 I’m currently learning ...DevOps
 - 👯 I’m looking to collaborate on ...AWS
-- 🤔 I’m looking for help with ...AWS
 - 💬 Ask me about ...anything
 - 📫 How to reach me: ... priyansh247joshi@gmail.com
 - 😄 Pronouns: ...He/Him                                        
