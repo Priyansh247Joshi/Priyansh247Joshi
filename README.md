@@ -1,4 +1,6 @@
+<center>
 ![Alt Text](https://media3.giphy.com/media/5aY7BIL8PoLL9nwa3p/source.gif)
+ </center>
 ### <p align="left"><big>Hi there! I am Priyansh Joshi 👋</big></p>
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Views&color=blue&style=plastic" alt="Priyansh247Joshi" />
