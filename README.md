@@ -4,7 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Views&color=blue&style=plastic" alt="Priyansh247Joshi" />
  </p>
 
-- 🔭 I’m currently working on ... Data Structure and Algorithms
+- </h1>🔭 I’m currently working on ... Data Structure and Algorithms</h1>
 - 🌱 I’m currently learning ...DevOps
 - 👯 I’m looking to collaborate on ...AWS
 - 💬 Ask me about ...anything
